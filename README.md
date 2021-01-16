@@ -1,4 +1,4 @@
-# Transfer-Learning-on-CNNs-with-Fashion-MNIST
+# Transfer-Learning-on-CNNs
 
 A core tenet in feature learning is that good learnt features shall be transferable between tasks.  This has become a reality in computer vision where it is commonplace to use existing weights trained by others on alarge-scale datasets such as ImageNet (Deng et al., 2009), remove the classification layers, and then train new classification layers using your own labelled data while preserving the same convolutional neural networkstructure.
 
